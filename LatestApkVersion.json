@@ -1,0 +1,10 @@
+{
+  "latestVersion": "2.0.0.1",
+  "latestVersionCode": 101,
+  "url": "https://github.com/jaqxues/SnapTools/releases",
+  "releaseNotes": [
+    "Completely removed ANR Watchdog",
+    "Use hardcoded values for Support, Shop...",
+    "Testing App Updater"
+  ]
+}
