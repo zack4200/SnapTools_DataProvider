@@ -1,7 +1,7 @@
 {
   "latestVersion": "2.0.0.1b",
   "latestVersionCode": 101,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Beta.apk?raw=true",
   "releaseNotes": [
     "Completely removed ANR Watchdog",
     "Use hardcoded values for Support, Shop...",
