@@ -6,5 +6,4 @@ This repository now controls the APK Updating System, as the Firebase and Analyt
 Feel free to contribute and help in updating and maintaining the SnapTools App.
 
 Already included Things:
-
--None
+-  Apk Updating

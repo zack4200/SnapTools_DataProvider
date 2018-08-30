@@ -1,10 +1,10 @@
 {
-  "latestVersion": "2.0.0.1",
-  "latestVersionCode": 101,
-  "url": "https://github.com/jaqxues/SnapTools/releases",
+  "latestVersion": "1.0.0.0",
+  "latestVersionCode": 1,
+  "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Release.apk",
   "releaseNotes": [
-    "Completely removed ANR Watchdog",
-    "Use hardcoded values for Support, Shop...",
-    "Testing App Updater"
+    " - Completely removed ANR Watchdog",
+    " - Use hardcoded values for Support, Shop...",
+    " - New Apk Updating"
   ]
 }
