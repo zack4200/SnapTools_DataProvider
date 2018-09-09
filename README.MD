@@ -7,3 +7,4 @@ Feel free to contribute and help in updating and maintaining the SnapTools App.
 
 Already included Things:
 -  Apk Updating
+-  FAQs
