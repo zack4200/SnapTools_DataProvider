@@ -9,3 +9,4 @@ Already included Things:
 -  Apk Updating
 -  FAQs
 -  Features
+-  Shop Items (Donations and Packs)
