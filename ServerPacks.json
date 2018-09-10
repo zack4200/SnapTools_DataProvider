@@ -1,8 +1,8 @@
 {
   "auth_status": true,
   "banned": false,
-  "auth_description": "Open Source...",
-  "ban_reason": "I don't like you",
+  "auth_description": "-",
+  "ban_reason": "-",
   "packs": [
     {
       "min_apk_code": 39,

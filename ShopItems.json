@@ -1,8 +1,8 @@
 {
   "banned": false,
   "auth_status": true,
-  "auth_description": "Logged in",
-  "ban_reason": "",
+  "auth_description": "-",
+  "ban_reason": "-",
   "shop_items": [
     {
       "identifier": "Not Available",
