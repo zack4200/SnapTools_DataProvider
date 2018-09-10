@@ -12,7 +12,8 @@
       {
         "category": "Saving",
         "key": "testSaving",
-        "bugs": ["KnownBugs Test",
+        "bugs": [
+          "KnownBugs Test",
           "This should work"
         ]
       }
