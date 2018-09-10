@@ -13,7 +13,7 @@
       "rocketr_link": "https://rocketr.net/buy/66807b650173"
     },
     {
-      "identifier": "Candy",
+      "identifier": "Candy (Andre)",
       "type": "donation",
       "price": 1,
       "description": "Gives me something to eat while working",
@@ -21,7 +21,7 @@
       "purchased": false
     },
     {
-      "identifier": "Bus Pass",
+      "identifier": "Bus Pass (Andre)",
       "type": "donation",
       "price": 2,
       "description": "Gotta get around the UK somehow",
@@ -29,7 +29,7 @@
       "purchased": false
     },
     {
-      "identifier": "Fish & Chips",
+      "identifier": "Fish & Chips (Andre)",
       "type": "donation",
       "price": 5,
       "description": "Need some food to go with the Jack Daniels",
@@ -37,7 +37,7 @@
       "purchased": false
     },
     {
-      "identifier": "Medicine",
+      "identifier": "Medicine (Andre)",
       "type": "donation",
       "price": 7.50,
       "description": "To help with my countless hangovers",
@@ -45,7 +45,7 @@
       "purchased": false
     },
     {
-      "identifier": "Server",
+      "identifier": "Server (Andre)",
       "type": "donation",
       "price": 10,
       "description": "SnapTools needs to go somewhere, you know (Not anymore, but...)",
@@ -53,7 +53,7 @@
       "purchased": false
     },
     {
-      "identifier": "Proper Meal",
+      "identifier": "Proper Meal (Andre)",
       "type": "donation",
       "price": 25,
       "description": "Help me eat properly for once",
@@ -61,7 +61,7 @@
       "purchased": false
     },
     {
-      "identifier": "Jack Daniels",
+      "identifier": "Jack Daniels (Andre)",
       "type": "donation",
       "price": 30,
       "description": "I'm an alcoholic, you can help support my addiction by purchasing one of these for me",
@@ -69,7 +69,7 @@
       "purchased": false
     },
     {
-      "identifier": "Dinner for Two",
+      "identifier": "Dinner for Two (Andre)",
       "type": "donation",
       "price": 50,
       "description": "In case I ever date someone... Unlikely",
@@ -77,7 +77,7 @@
       "purchased": false
     },
     {
-      "identifier": "Student Debt",
+      "identifier": "Student Debt (Andre)",
       "type": "donation",
       "price": 100,
       "description": "I'm a broke Uni student, help me pay off my debts",
