@@ -6,26 +6,28 @@
 {
 "min_apk_code": 39,
 "min_apk_name": 2.0.0.0,
-"description": "ModPackTest1",
-"is_purchased": true
-}, 
-{
-"min_apk_code": 39,
-"min_apk_name": 2.0.0.0,
-"description": "ModPackTest2",
-"is_purchased": true
-}, 
-{
-"min_apk_code": 39,
-"min_apk_name": 2.0.0.0,
-"description": "ModPackTest3",
-"is_purchased": true
+"description": "ModPackTest1 desc",
+"is_purchased": true,
+  "name": "ModPackTest1",
+  "pack_type": "Premium",
+  "sc_version": "10.26.5.0",
+  "mod_version": "1.0.0.4,
+  "development": false,
+  "latest": true,
+  "flavour":"prod"
 },
 {
 "min_apk_code": 39,
 "min_apk_name": 2.0.0.0,
-"description": "ModPackTest4",
-"is_purchased": true
+"description": "ModPackTest2 desc",
+"is_purchased": true,
+  "name": "ModPackTest2",
+  "pack_type": "Premium",
+  "sc_version": "10.26.5.0",
+  "mod_version": "1.0.0.5,
+  "development": true,
+  "latest": false,
+  "flavour":"prod"
 }
 ]
 }
