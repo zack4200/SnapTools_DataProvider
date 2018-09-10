@@ -1,1 +1,24 @@
-
+[
+  {
+    "identifier": "testitem",
+    "type": "donation",
+    "price": 10.30,
+    "description": "Some description",
+    "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
+    "purchased": false
+  }, {
+    "identifier": "testitem2",
+    "type": "donation",
+    "price": 190.30,
+    "description": "Some description2",
+    "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
+    "purchased": false
+  }, {
+    "identifier": "testitem3",
+    "type": "donation",
+    "price": 120.30,
+    "description": "Some description3",
+    "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
+    "purchased": false
+  }
+]
