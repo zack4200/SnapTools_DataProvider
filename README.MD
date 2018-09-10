@@ -11,3 +11,4 @@ Already included Things:
 -  Features
 -  Shop Items (Donations and Packs)
 -  Server Packs
+-  Known Bugs
