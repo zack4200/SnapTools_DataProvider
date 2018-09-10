@@ -1,4 +1,4 @@
 \--<root>RootP
 \-ItemP
-/-RootB
+/-<root>RootB
 /--ItemB
