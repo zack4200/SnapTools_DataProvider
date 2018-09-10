@@ -1,19 +1,22 @@
 {
-  "bugs": [
-    {
-      "category": "Sharing",
-      "key": "testKeySharing",
-      "bugs": [
-        "Debugging...",
-        "Testing KnownBugs"
-      ]
-    }, {
-      "category": "Saving",
-      "key": "testSaving",
-      "bugs": [
-        "KnownBugs Test",
-        "This should work"
-      ]
-    }
-  ]
+  "2.0.0.0": {
+    "bugs": [
+      {
+        "category": "Sharing",
+        "key": "testKeySharing",
+        "bugs": [
+          "Debugging...",
+          "Testing KnownBugs"
+        ]
+      },
+      {
+        "category": "Saving",
+        "key": "testSaving",
+        "bugs": [
+          "KnownBugs Test",
+          "This should work"
+        ]
+      }
+    ]
+  }
 }
