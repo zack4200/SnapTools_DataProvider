@@ -5,7 +5,7 @@
 "packs":[
 {
 "min_apk_code": 39,
-"min_apk_name": 2.0.0.0,
+"min_apk_name": "2.0.0.0",
 "description": "ModPackTest1 desc",
 "is_purchased": true,
   "name": "ModPackTest1",
