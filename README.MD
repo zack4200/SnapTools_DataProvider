@@ -10,3 +10,4 @@ Already included Things:
 -  FAQs
 -  Features
 -  Shop Items (Donations and Packs)
+-  Server Packs
