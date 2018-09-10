@@ -1,29 +1,88 @@
-{"banned": false,
-"auth_status": true,
- "auth_description": "Logged in",
- "ban_reason": "",
+{
+  "banned": false,
+  "auth_status": true,
+  "auth_description": "Logged in",
+  "ban_reason": "",
   "shop_items": [
-  {
-    "identifier": "testitem",
-    "type": "donation",
-    "price": 10.30,
-    "description": "Some description",
-    "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
-    "purchased": false
-  }, {
-    "identifier": "testitem2",
-    "type": "donation",
-    "price": 190.30,
-    "description": "Some description2",
-    "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
-    "purchased": false
-  }, {
-    "identifier": "testitem3",
-    "type": "donation",
-    "price": 120.30,
-    "description": "Some description3",
-    "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
-    "purchased": false
-  }
-]
+    {
+      "identifier": "Not Available",
+      "type": "pack",
+      "price": 999.99,
+      "description": "Purchasing packs is no longer needed",
+      "purchased": false,
+      "rocketr_link": "https://rocketr.net/buy/66807b650173"
+    },
+    {
+      "identifier": "Candy",
+      "type": "donation",
+      "price": 1,
+      "description": "Gives me something to eat while working",
+      "rocketr_link": "https://rocketr.net/buy/643c81d5ba00",
+      "purchased": false
+    },
+    {
+      "identifier": "Bus Pass",
+      "type": "donation",
+      "price": 2,
+      "description": "Gotta get around the UK somehow",
+      "rocketr_link": "https://rocketr.net/buy/38cd6bd1d4a7",
+      "purchased": false
+    },
+    {
+      "identifier": "Fish & Chips",
+      "type": "donation",
+      "price": 5,
+      "description": "Need some food to go with the Jack Daniels",
+      "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
+      "purchased": false
+    },
+    {
+      "identifier": "Medicine",
+      "type": "donation",
+      "price": 7.50,
+      "description": "To help with my countless hangovers",
+      "rocketr_link": "https://rocketr.net/buy/30df2002f18c",
+      "purchased": false
+    },
+    {
+      "identifier": "Server",
+      "type": "donation",
+      "price": 10,
+      "description": "SnapTools needs to go somewhere, you know (Not anymore, but...)",
+      "rocketr_link": "https://rocketr.net/buy/a621497ae114",
+      "purchased": false
+    },
+    {
+      "identifier": "Proper Meal",
+      "type": "donation",
+      "price": 25,
+      "description": "Help me eat properly for once",
+      "rocketr_link": "https://rocketr.net/buy/498c745aa76c",
+      "purchased": false
+    },
+    {
+      "identifier": "Jack Daniels",
+      "type": "donation",
+      "price": 30,
+      "description": "I'm an alcoholic, you can help support my addiction by purchasing one of these for me",
+      "rocketr_link": "https://rocketr.net/buy/51ec69d480c9",
+      "purchased": false
+    },
+    {
+      "identifier": "Dinner for Two",
+      "type": "donation",
+      "price": 50,
+      "description": "In case I ever date someone... Unlikely",
+      "rocketr_link": "https://rocketr.net/buy/f81dd7be2ca1",
+      "purchased": false
+    },
+    {
+      "identifier": "Student Debt",
+      "type": "donation",
+      "price": 100,
+      "description": "I'm a broke Uni student, help me pay off my debts",
+      "rocketr_link": "https://rocketr.net/buy/66807b650173",
+      "purchased": false
+    }
+  ]
 }
