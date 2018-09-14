@@ -4,7 +4,15 @@
     "mod_version": "1.0.0.0",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": "Some ChangeLog",
+    "changelog": "\n\nPlaceHolder",
+    "pack_versions": {
+      "1.0.0.0": {
+        "changelog": [
+          "Some Release Notes",
+          "Some other Release Notes"
+        ]
+      }
+    },
     "flavour": "prod"
   },
   "beta": {
