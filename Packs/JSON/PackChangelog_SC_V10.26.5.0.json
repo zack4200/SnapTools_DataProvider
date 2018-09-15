@@ -4,7 +4,7 @@
     "mod_version": "1.0.0.0",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": "\nPack Version 2.0.0.0\n\n-Some Release Notes\n-Release Notes\n-Isn't SnapTools cool?\n-It is",
+    "changelog": "\n<b><font color='#efde86'><u>Pack Version 2.0.0.0</u></font></b>\n\n-Some Release Notes\n-Release Notes\n-Isn't SnapTools cool?\n-It is",
     "flavour": "prod"
   },
   "beta": {
