@@ -1,11 +1,13 @@
 {
-  "pack": [
-    {
-      "sc_version": "10.26.5.0",
-      "mod_version": "1.0.0.0",
-      "pack_type": "Premium",
-      "development": true,
-      "flavour": "prod"
-    }
-  ]
+  "prod": {
+    "packs": [
+      {
+        "sc_version": "10.26.5.0",
+        "mod_version": "1.0.0.0",
+        "pack_type": "Premium",
+        "development": true,
+        "flavour": "prod"
+      }
+    ]
+  }
 }
