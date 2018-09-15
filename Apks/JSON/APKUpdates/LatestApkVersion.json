@@ -1,6 +1,6 @@
 {
   "latestVersion": "3.0.0.0",
-  "latestVersionCode": 1,
+  "latestVersionCode": 1000,
   "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Release.apk",
   "releaseNotes": [
     " - Completely removed ANR Watchdog",
