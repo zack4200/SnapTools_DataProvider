@@ -1,12 +1,13 @@
 {
-  "latestVersion": "2.0.0.0",
-  "latestVersionCode": 100,
+  "latestVersion": "2.0.0.1",
+  "latestVersionCode": 101,
   "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk",
   "releaseNotes": [
     " - Implemented Network interaction with the SnapTools_DataProvider Repo",
     " - Completely removed ANR Watchdog",
     " - Use hardcoded values for Support, Shop...",
     " - New Apk and Pack Updating",
-    " - Fixed Version Code error"
+    " - Fixed Version Code error",
+    " - Fixed ResourceMapper"
   ]
 }
