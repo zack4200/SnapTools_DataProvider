@@ -1,7 +1,12 @@
 {
-  "latestVersion": "6.0.0.0",
-  "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Beta.apk",
-  "releaseNotes": [
-    " - Pack Update Test"
-  ]
+  "auth_status": true,
+  "banned": false,
+  "auth_description": "-",
+  "ban_reason": "-",
+  "development": false,
+  "mod_version": "1.0.0.0",
+  "sc_version": "10.26.5.0",
+  "pack_type": "Premium",
+  "changelog": "Nothing",
+  "flavout": "prod"
 }
