@@ -5,28 +5,15 @@
   "ban_reason": "-",
   "packs": [
     {
-      "min_apk_code": 39,
-      "min_apk_name": "2.0.0.0",
-      "description": "ModPackTest1 desc",
+      "min_apk_code": 1,
+      "min_apk_name": "1.0.0.0",
+      "description": "A ModulePack for 10.26.5.0",
       "is_purchased": true,
-      "name": "ModPackTest1",
+      "name": "STModulePack_1.0.0.0_Premium_10.26.5.0",
       "pack_type": "Premium",
       "sc_version": "10.26.5.0",
-      "mod_version": "1.0.0.4",
+      "mod_version": "1.0.0.0",
       "development": false,
-      "latest": false,
-      "flavour": "prod"
-    },
-    {
-      "min_apk_code": 39,
-      "min_apk_name": "2.0.0.0",
-      "description": "ModPackTest2 desc",
-      "is_purchased": true,
-      "name": "ModPackTest2",
-      "pack_type": "Premium",
-      "sc_version": "10.26.5.0",
-      "mod_version": "2.0.0.0",
-      "development": true,
       "latest": true,
       "flavour": "prod"
     }
