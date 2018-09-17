@@ -4,9 +4,9 @@
   "auth_description": "-",
   "ban_reason": "-",
   "development": false,
-  "mod_version": "1.0.0.0",
+  "mod_version": "1.0.0.1",
   "sc_version": "10.26.5.0",
   "pack_type": "Premium",
-  "changelog": "Nothing",
+  "changelog": "Potentially Fixed Multilines",
   "flavour": "prod"
 }
