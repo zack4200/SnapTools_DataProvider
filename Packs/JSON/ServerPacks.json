@@ -9,10 +9,10 @@
       "min_apk_name": "1.0.0.0",
       "description": "A ModulePack for 10.26.5.0",
       "is_purchased": true,
-      "name": "STModulePack_1.0.0.0_Premium_10.26.5.0",
+      "name": "STModulePack_1.0.0.2_Premium_10.26.5.0",
       "pack_type": "Premium",
       "sc_version": "10.26.5.0",
-      "mod_version": "1.0.0.0",
+      "mod_version": "1.0.0.2",
       "development": false,
       "latest": true,
       "flavour": "prod"
