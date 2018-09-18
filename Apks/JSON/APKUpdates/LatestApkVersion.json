@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.0.1",
-  "latestVersionCode": 101,
+  "latestVersion": "2.0.0.2",
+  "latestVersionCode": 102,
   "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk",
   "releaseNotes": [
     " - Implemented Network interaction with the SnapTools_DataProvider Repo",
