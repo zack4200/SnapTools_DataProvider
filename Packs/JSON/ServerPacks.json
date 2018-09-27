@@ -5,17 +5,54 @@
   "ban_reason": "-",
   "packs": [
     {
-      "min_apk_code": 1,
-      "min_apk_name": "1.0.0.0",
-      "description": "A ModulePack for 10.26.5.0",
+      "min_apk_code": 205,
+      "min_apk_name": "2.0.0.5",
+      "description": "A ModulePack for 10.20.5.0",
       "is_purchased": true,
-      "name": "STModulePack_1.0.0.2_Premium_10.26.5.0",
+      "name": "STModulePack_2.0.0.5_Premium_10.20.5.0",
       "pack_type": "Premium",
-      "sc_version": "10.26.5.0",
-      "mod_version": "1.0.0.2",
+      "sc_version": "10.20.5.0",
+      "mod_version": "2.0.0.5",
       "development": false,
       "latest": true,
       "flavour": "prod"
+    }, {
+      "min_apk_code": 206,
+      "min_apk_name": "2.0.0.6b",
+      "description": "A ModulePack for 10.20.5.0",
+      "is_purchased": true,
+      "name": "STModulePackBeta_2.0.0.6_Premium_10.20.5.0",
+      "pack_type": "Premium",
+      "sc_version": "10.20.5.0",
+      "mod_version": "2.0.0.5",
+      "development": false,
+      "latest": true,
+      "flavour": "beta"
+    },
+    {
+      "min_apk_code": 205,
+      "min_apk_name": "2.0.0.5",
+      "description": "A ModulePack for 10.26.5.0",
+      "is_purchased": true,
+      "name": "STModulePack_2.0.0.6_Premium_10.26.5.0",
+      "pack_type": "Premium",
+      "sc_version": "10.26.5.0",
+      "mod_version": "2.0.0.5",
+      "development": false,
+      "latest": true,
+      "flavour": "prod"
+    }, {
+      "min_apk_code": 206,
+      "min_apk_name": "2.0.0.6b",
+      "description": "A ModulePack for 10.26.5.0",
+      "is_purchased": true,
+      "name": "STModulePackBeta_2.0.0.6_Premium_10.26.5.0",
+      "pack_type": "Premium",
+      "sc_version": "10.26.5.0",
+      "mod_version": "2.0.0.5",
+      "development": false,
+      "latest": true,
+      "flavour": "beta"
     }
   ]
 }

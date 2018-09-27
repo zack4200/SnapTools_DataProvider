@@ -1,12 +1,26 @@
 {
-  "auth_status": true,
-  "banned": false,
-  "auth_description": "-",
-  "ban_reason": "-",
-  "development": false,
-  "mod_version": "1.0.0.2",
-  "sc_version": "10.26.5.0",
-  "pack_type": "Premium",
-  "changelog": "Potentially Fixed Multilines",
-  "flavour": "prod"
+  "prod": {
+    "auth_status": true,
+    "banned": false,
+    "auth_description": "-",
+    "ban_reason": "-",
+    "development": false,
+    "mod_version": "2.0.0.5",
+    "sc_version": "10.26.5.0",
+    "pack_type": "Premium",
+    "changelog": "Fixed KnownBugs\nFixed Multiline",
+    "flavour": "prod"
+  },
+  "beta": {
+    "auth_status": true,
+    "banned": false,
+    "auth_description": "-",
+    "ban_reason": "-",
+    "development": false,
+    "mod_version": "2.0.0.6b",
+    "sc_version": "10.26.5.0",
+    "pack_type": "Premium",
+    "changelog": "Fixed KnownBugs\nFixed Multiline\nEven with Release Channel, but built as Beta",
+    "flavour": "beta"
+  }
 }
