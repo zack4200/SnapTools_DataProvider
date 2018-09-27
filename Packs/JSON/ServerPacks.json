@@ -5,8 +5,6 @@
   "ban_reason": "-",
   "packs": [
     {
-      "min_apk_code": 205,
-      "min_apk_name": "2.0.0.5",
       "description": "A ModulePack for 10.20.5.0",
       "is_purchased": true,
       "name": "STModulePack_2.0.0.5_Premium_10.20.5.0",
@@ -17,8 +15,6 @@
       "latest": true,
       "flavour": "prod"
     }, {
-      "min_apk_code": 206,
-      "min_apk_name": "2.0.0.6b",
       "description": "A ModulePack for 10.20.5.0",
       "is_purchased": true,
       "name": "STModulePackBeta_2.0.0.6_Premium_10.20.5.0",
