@@ -1,13 +1,8 @@
 {
-  "latestVersion": "2.0.0.6",
-  "latestVersionCode": 106,
+  "latestVersion": "2.0.0.7",
+  "latestVersionCode": 107,
   "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
   "releaseNotes": [
-    " - Initial Release",
-    " - Implemented Network interaction with the SnapTools_DataProvider Repo",
-    " - Completely removed ANR Watchdog",
-    " - Included App Repackaging",
-    " - Fixed \"SUCCESS\" Error Dialog",
-    " - Fixed Volley Exception"
+    " - A bit more flexible Networking"
   ]
 }

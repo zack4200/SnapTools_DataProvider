@@ -10,17 +10,17 @@
       "name": "STModulePack_2.0.0.6_Premium_10.26.5.0",
       "pack_type": "Premium",
       "sc_version": "10.26.5.0",
-      "mod_version": "2.0.0.5",
+      "mod_version": "2.0.0.6",
       "development": false,
       "latest": true,
       "flavour": "prod"
     }, {
       "description": "A ModulePack for 10.26.5.0",
       "is_purchased": true,
-      "name": "STModulePackBeta_2.0.0.6_Premium_10.26.5.0",
+      "name": "STModulePackBeta_2.0.0.7b_Premium_10.26.5.0",
       "pack_type": "Premium",
       "sc_version": "10.26.5.0",
-      "mod_version": "2.0.0.5",
+      "mod_version": "2.0.0.7b",
       "development": false,
       "latest": true,
       "flavour": "beta"

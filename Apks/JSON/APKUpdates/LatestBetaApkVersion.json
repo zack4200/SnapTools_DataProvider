@@ -1,13 +1,9 @@
 {
-  "latestVersion": "2.0.0.7b",
-  "latestVersionCode": 107,
+  "latestVersion": "2.0.0.8b",
+  "latestVersionCode": 108,
   "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Beta.apk",
   "releaseNotes": [
-    " - Initial Release",
-    " - Implemented Network interaction with the SnapTools_DataProvider Repo",
-    " - Completely removed ANR Watchdog",
-    " - Included App Repackaging",
-    " - Fixed \"SUCCESS\" Error Dialog",
+    " - A bit more flexible Networking",
     " - Even with the Release Branch, but a BetaChannel APK"
   ]
 }

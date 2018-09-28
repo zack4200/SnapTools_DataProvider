@@ -16,6 +16,18 @@
       }
     ]
   },
+  "2.0.0.6": {
+    "bugs": [
+      {
+        "category": "General",
+        "bugs": [
+          "As you can see this Apk and ModulePack works.",
+          "It also offers the comfort of KnownBugs and other Networking things",
+          "And... actually there are no other Known Bugs"
+        ]
+      }
+    ]
+  },
   "2.0.0.6b": {
     "bugs": [
       {
@@ -30,6 +42,19 @@
         "category": "Old Design",
         "bugs": [
           "On 10.26.5.0, if you open Snapchat from a Notification, the old design will fail to load for some reason. You need to close and re-open Snapchat in this case to get to the old UI."
+        ]
+      }
+    ]
+  },
+  "2.0.0.7b": {
+    "bugs": [
+      {
+        "category": "General",
+        "bugs": [
+          "As you can see this Apk and ModulePack works.",
+          "It also offers the comfort of KnownBugs and other Networking things",
+          "And... actually there are no other Known Bugs",
+          "This Pack is completely even with the Release Channel, but built as Beta"
         ]
       }
     ]
