@@ -1,0 +1,18 @@
+{
+  "1.0.0.10": {
+    "bugs": [
+      {
+        "category": "Saving",
+        "bugs": [
+          " - Group Saving not functional"
+        ]
+      },
+      {
+        "category": "Custom Filters",
+        "bugs": [
+          " - Custom Filters not functional"
+        ]
+      }
+    ]
+  }
+}
