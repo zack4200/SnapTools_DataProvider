@@ -5,10 +5,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "1.0.0.10",
+    "mod_version": "1.0.0.11",
     "sc_version": "10.41.6.0",
     "pack_type": "Premium",
-    "changelog": "Initial Release",
+    "changelog": "Fixed 10+ sec Video Sending",
     "flavour": "prod"
   }
 }
