@@ -1,9 +1,12 @@
 {
-  "latestVersion": "2.0.0.8b",
-  "latestVersionCode": 108,
+  "latestVersion": "2.0.0.9b",
+  "latestVersionCode": 109,
   "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Beta.apk",
   "releaseNotes": [
-    " - A bit more flexible Networking",
-    " - Even with the Release Branch, but a BetaChannel APK"
+    " - Pushing Anti Hang for real",
+    " - Hopefully fixed Pack Updates",
+    " - New App Repackaging",
+    " - Pie Warn",
+    " - No Root Initialization"
   ]
 }

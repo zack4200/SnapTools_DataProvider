@@ -17,10 +17,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "2.0.0.7b",
+    "mod_version": "2.0.0.8b",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": "Fixed Old UI Bug (when opened from Notification)\nEven with Release Channel, but built as Beta",
+    "changelog": " - Pack to keep up with the newest Anti Hang pushes\n - Fixed Image Rotation",
     "flavour": "beta"
   }
 }
