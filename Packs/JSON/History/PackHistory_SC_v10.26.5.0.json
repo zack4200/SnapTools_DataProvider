@@ -20,7 +20,7 @@
     "packs": [
       {
         "sc_version": "10.26.5.0",
-        "mod_version": "2.0.0.8b",
+        "mod_version": "3.0.0.0b",
         "pack_type": "Premium",
         "development": false,
         "flavour": "beta"

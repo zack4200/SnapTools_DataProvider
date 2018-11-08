@@ -27,10 +27,10 @@
     }, {
       "description": "A ModulePack for 10.26.5.0",
       "is_purchased": true,
-      "name": "STModulePackBeta_2.0.0.8b_Premium_10.26.5.0",
+      "name": "STModulePackBeta_3.0.0.0b_Premium_10.26.5.0",
       "pack_type": "Premium",
       "sc_version": "10.26.5.0",
-      "mod_version": "2.0.0.8b",
+      "mod_version": "3.0.0.0b",
       "development": false,
       "latest": true,
       "flavour": "beta"

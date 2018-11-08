@@ -9,10 +9,10 @@
   },
   "beta": {
     "development": true,
-    "mod_version": "2.0.0.8b",
+    "mod_version": "3.0.0.0b",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": " - Keeping up with Anti Hang\n - Fixed Image Rotation",
+    "changelog": " - Fixed Image Rotation (Manual Activation required)",
     "flavour": "beta"
   }
 }
