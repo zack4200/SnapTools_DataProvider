@@ -14,5 +14,19 @@
         ]
       }
     ]
+  }, "1.0.1.0b": {
+    "bugs": [
+      {
+        "category": "Custom Filters",
+        "bugs": [
+          " - Custom Filters not functional"
+        ]
+      }, {
+        "category": "Stealth",
+        "bugs": [
+          " - Stealth not functional"
+        ]
+      }
+    ]
   }
 }

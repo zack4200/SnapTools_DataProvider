@@ -8,7 +8,7 @@
     "flavour": "prod"
   },
   "beta": {
-    "development": true,
+    "development": false,
     "mod_version": "3.0.0.0b",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
