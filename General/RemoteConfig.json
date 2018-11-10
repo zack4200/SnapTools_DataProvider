@@ -14,14 +14,14 @@
   "support_discord_text": "For the fastest response to your questions, please join our Discord server where there is usually 24/7 support.\nOnce joined check out the <b><font color='#efde86'><u>FAQ</u></font></b> channel to check if your question has already been answered. Otherwise try out the <b><font color='#efde86'><u>@Support</u></font></b> tag to notify the support team of your question.\n\nSpecial thanks to the Support team (TupaC, Liz, Freekystar, jaqxues, Erik, Zack4200, Badgermole, Kevin T, Fullonrager, Dubyadud and Asbestos) for helping out with testing and their community assistance",
   "support_discord_link": "https://discordapp.com/invite/T29v543",
 
-  "support_website_text": "Want more information about SnapTools? View our official Website hosted by the lovely <b><font color='#efde86'><u>ElectronicWizard</u></font></b> to get an idea of what we have to offer as well as some FAQs\n(No longer maintained)",
-  "support_website_link": "null",
+  "support_website_text": "The Website has been taken down, but here is my personal Website that contains anything related to my work on SnapTools",
+  "support_website_link": "https://jaqxues.github.io/",
 
   "support_reddit_text": "We also have a Sub-Reddit that is under construction but is still completely usable if you want to post anything relating to SnapTools. Subscribing to us can help to build our community to let new users know that we're a trusted application.\nThe Reddit will contain announcements and an up to date FAQ list.",
-  "support_reddit_link": "null",
+  "support_reddit_link": "https://www.reddit.com/r/SnapTools/",
 
-  "support_xda_text": "Our XDA page hasn't been created yet. We're currently waiting for a full public release before we create the page.\n(Maybe at some point just to advertise for Andre's ModulePack System)",
-  "support_xda_link": "null",
+  "support_xda_text": "Our XDA page hasn't been created yet. We're currently waiting for a full public release before we create the page.\n(Maybe at some point just to advertise for Andre's ModulePack System)\n\nThis is a Placeholder, so here you have a Discord Link!",
+  "support_xda_link": "https://discordapp.com/invite/T29v543",
 
   "support_twitter_text": "(No longer maintained)",
   "support_twitter_link": "https://twitter.com/SnapTools_App",
