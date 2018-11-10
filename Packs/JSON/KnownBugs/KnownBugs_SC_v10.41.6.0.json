@@ -1,16 +1,20 @@
 {
-  "1.0.0.11": {
+  "1.0.1.0": {
     "bugs": [
-      {
-        "category": "Saving",
-        "bugs": [
-          " - Group Saving not functional"
-        ]
-      },
       {
         "category": "Custom Filters",
         "bugs": [
           " - Custom Filters not functional"
+        ]
+      }, {
+        "category": "Stealth",
+        "bugs": [
+          " - Stealth not functional"
+        ]
+      }, {
+        "category": "Important",
+        "bugs": [
+          "If you experience any issues, never hesitate to tell me about it. Discord is your friend"
         ]
       }
     ]

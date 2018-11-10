@@ -1,8 +1,12 @@
 {
-  "latestVersion": "2.0.0.7",
-  "latestVersionCode": 107,
+  "latestVersion": "2.0.0.8",
+  "latestVersionCode": 108,
   "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
   "releaseNotes": [
-    " - A bit more flexible Networking"
+    " - Pushing Anti Hang for real",
+    " - Hopefully fixed Pack Updates",
+    " - New App Repackaging",
+    " - Pie Warn",
+    " - No Root Initialization"
   ]
 }

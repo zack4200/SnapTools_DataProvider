@@ -7,10 +7,10 @@
     {
       "description": "A ModulePack for 10.41.6.0",
       "is_purchased": true,
-      "name": "STModulePack_1.0.0.11_Premium_10.41.6.0",
+      "name": "STModulePack_1.0.1.0_Premium_10.41.6.0",
       "pack_type": "Premium",
       "sc_version": "10.41.6.0",
-      "mod_version": "1.0.0.11",
+      "mod_version": "1.0.1.0",
       "development": false,
       "latest": true,
       "flavour": "prod"
@@ -27,10 +27,10 @@
     }, {
       "description": "A ModulePack for 10.26.5.0",
       "is_purchased": true,
-      "name": "STModulePack_2.0.0.6_Premium_10.26.5.0",
+      "name": "STModulePack_3.0.0.0_Premium_10.26.5.0",
       "pack_type": "Premium",
       "sc_version": "10.26.5.0",
-      "mod_version": "2.0.0.6",
+      "mod_version": "3.0.0.0",
       "development": false,
       "latest": true,
       "flavour": "prod"
