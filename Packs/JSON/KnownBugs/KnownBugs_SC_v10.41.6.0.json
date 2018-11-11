@@ -1,15 +1,10 @@
 {
-  "1.0.1.0": {
+  "1.0.1.2": {
     "bugs": [
       {
         "category": "Custom Filters",
         "bugs": [
           " - Custom Filters not functional"
-        ]
-      }, {
-        "category": "Stealth",
-        "bugs": [
-          " - Stealth not functional"
         ]
       }, {
         "category": "Important",
@@ -18,7 +13,7 @@
         ]
       }
     ]
-  }, "1.0.1.0b": {
+  }, "1.0.1.2b": {
     "bugs": [
       {
         "category": "Custom Filters",
@@ -26,9 +21,9 @@
           " - Custom Filters not functional"
         ]
       }, {
-        "category": "Stealth",
+        "category": "Important",
         "bugs": [
-          " - Stealth not functional"
+          "If you experience any issues, never hesitate to tell me about it. Discord is your friend"
         ]
       }
     ]
